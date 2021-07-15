@@ -38,7 +38,8 @@ Set random colors in an easy and quick way. No panic :)
 ```
 <br>
 
-🔔 <span style="background-color:rgba(255, 165, 0, 0.5) ">_Linking styles is not necessary but it will be needed for smooth transition_ </span>
+<!-- 🔔 <span style="background-color:rgba(255, 165, 0, 0.5) ">_Linking styles is not necessary but it will be needed for smooth transition_ </span> -->
+🔔 <mark>_Linking styles is not necessary but it will be needed for smooth transition_ </mark>
 
 <br>
 
