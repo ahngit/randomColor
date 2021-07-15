@@ -1,5 +1,5 @@
 # [Random Color](https://github.com/ahngit/randomColor "Random Color")
-![size](https://img.shields.io/github/languages/code-size/ahngit/randomColor) ![files](https://img.shields.io/github/directory-file-count/ahngit/randomColor) ![last commit](https://img.shields.io/github/last-commit/ahngit/randomColor)![downloads](https://img.shields.io/github/downloads/ahngit/randomColor/total)
+![size](https://img.shields.io/github/languages/code-size/ahngit/randomColor) ![files](https://img.shields.io/github/directory-file-count/ahngit/randomColor) ![last commit](https://img.shields.io/github/last-commit/ahngit/randomColor)![stars](https://img.shields.io/github/stars/ahngit/randomColor?style=social)
 
 Set random colors in an easy and quick way. No panic :)
 
