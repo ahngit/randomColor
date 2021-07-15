@@ -1,1 +1,3 @@
-
+.setRandomBgColor,.setRandomTextColor,.setRandomBorderColor,.setRandomTextShadow,.setRandomBoxShadow{
+    transition: 0.5s;
+}
